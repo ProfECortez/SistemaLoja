@@ -26,6 +26,6 @@
  6 - VERIFY SHOPPING AMOUNT OF CLIENT
  7 - SHOW COMPLETE LIST OF CLIENTS<br />
  </p>
- <p>As clients are enrolled, they are organized in alphabetical order.[/p>
+ <p>As clients are enrolled, they are organized in alphabetical order.</p>
  <p>If the user wants to input changes to a client's profile, this process starts with a search for the client in the database and follows with a confirmation that the changes are being done with the correct client.</p>
  <p>The clients' database is allocated directly in the heap.</p>
