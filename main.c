@@ -1,7 +1,5 @@
 /*
- Disciplina: Técnicas de Programação
- Aluno: Eduardo Pessonia Molina Cortez
- Matrícula: 2020215387
+ Autor: Eduardo Pessonia Molina Cortez
  
  Sistema de Loja
  
